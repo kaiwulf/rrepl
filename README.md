@@ -1,2 +1,2 @@
 # rrepl
-repurposing repl
+repurposable repl
